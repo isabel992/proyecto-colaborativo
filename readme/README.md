@@ -1,3 +1,4 @@
+# PROYECTO COLABORATIVO
 ## PARTE FRANCISCO JAVIER HH
 ### PARTE DE JAVA SCRIPT
 Este script es útil para tareas en segundo plano como monitoreo, registro de actividad o preparación de datos sin impacto visual 
@@ -14,7 +15,7 @@ Este script es útil para tareas en segundo plano como monitoreo, registro de ac
 ### PROCESO
 #### CONECTARSE AL REPOSITORIO Y CREAR RAMAS
 Para empezar, nos conectaremos con el repositorio de la manera **git clone** una vez clonado vemos que el proyecto se ha copiado en el directorio donde estaríamos ubicados en este caso el Escritorio (Desktop)<br>
-![alt text](<img\Captura de pantalla 2025-03-02 014441.png>)
+![alt text](<img/Captura de pantalla 2025-03-02 014441.png>)
 
 
 Para asegurarnos de que estamos correctamente conectados al repositorio usaremos el comando **git remote -v** introducidos en el directorio del proyecto <br>
