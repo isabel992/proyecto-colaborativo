@@ -1,10 +1,11 @@
 # Proyecto colaborativo - ISABEL BARROSO AGUDO
 ## Contenido
 1. Creacion del proyecto
-2. Uso de Git
-3. Uso de Visual Studio
-4. Gestión en Git Hub
-## Uso de Git 
+2. Uso de Git ![](https://i.imgur.com/1YN31Uj.png)
+3. Uso de Visual Studio ![](https://i.imgur.com/JV9IN68.png)
+4. Gestión en Git Hub ![](https://i.imgur.com/fnmukqp.png)
+## Uso de Git
+![](https://i.imgur.com/1YN31Uj.png) 
 1. Se inicializó el repositorio en una carpeta llamada proyecto-colaborativo
 2. Se crearon los directorios 'css' y 'javaScript'
 3. Se clonó el repositorio desde GitHub
@@ -31,15 +32,18 @@ Coge la última versión de main desde GitHub.
 ### `git merge <nombre-de-rama>`
 Fusionar la rama con el main.
 ## Uso de Visual Studio y Git
+![](https://i.imgur.com/JV9IN68.png)  ![](https://i.imgur.com/1YN31Uj.png)
 1. Se añadieron cambios en el código usando Visual Studio Code
 2. Se realizó `git add .` para agregar los cambios al área de preparación
 3. Se ejecutó un `git commit -m "Mensaje descriptivo"`
 4. Se subió la rama al repositorio en GitHub
 ## Gestión en Git Hub
+![](https://i.imgur.com/fnmukqp.png)
 1. Se creó un Pull Request desde la rama creada hacia la rama `main`
 2. Se verificó que la base era `main` y el compare era la rama con cambios
 3. Se realizó el merge de la rama en `main`
 4. Se sincronizó el repositorio local con `git pull origin main`
 5. Se subieron los cambios finales con `git push origin main`
 ## Enlace al repositorio
+![](https://i.imgur.com/LZeBcin.png)
 Puedes acceder al repositorio en GitHub en el siguiente enlace: [proyecto colaborativo](https://github.com/isabel992/proyecto-colaborativo)
